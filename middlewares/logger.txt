@@ -1,0 +1,21 @@
+User Logged Data
+Username = Sureka
+Password = Sureka@123
+URL = /api/v1/users/userValidation/Sureka/Sureka@123
+Date = Fri Jul 12 2024 21:29:47 GMT+0530 (India Standard Time)
+Method = POST
+
+User Logged Data
+Username = Vasanth
+Password = Vasanth@123
+URL = /api/v1/users/userValidation/Vasanth/Vasanth@123
+Date = Fri Jul 12 2024 21:30:00 GMT+0530 (India Standard Time)
+Method = POST
+
+User Logged Data
+Username = Vasanth
+Password = Vasanth@123
+URL = /api/v1/users/userValidation/Vasanth/Vasanth@123
+Date = Fri Jul 12 2024 21:32:00 GMT+0530 (India Standard Time)
+Method = POST
+

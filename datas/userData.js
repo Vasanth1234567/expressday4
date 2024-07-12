@@ -1,0 +1,23 @@
+const userData=[
+    {
+        id:1,
+        userName:"Vasanth",
+        password:"Vasanth@123"
+    },
+    {
+        id:2,
+        userName:"Santhosh",
+        password:"Santhosh@123"
+    },
+    {
+        id:3,
+        userName:"Saravanan",
+        password:"Saravanan@123"
+    },
+    {
+        id:4,
+        userName:"Sureka",
+        password:"Sureka@123"
+    }
+]
+module.exports=userData
